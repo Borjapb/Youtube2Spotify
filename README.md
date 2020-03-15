@@ -2,8 +2,10 @@
 
 Necesario:
 
-  1. pip install google_auth_oauthlib
-  2. pip install google-api-python-client
+  1. 
+    pip install google_auth_oauthlib
+  2. 
+    pip install google-api-python-client
   3. 
     (UNIX)
     sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
