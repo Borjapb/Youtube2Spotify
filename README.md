@@ -15,3 +15,4 @@ Necesario:
     pip install --upgrade youtube-dl
   4. Completar spotify_user_id con el id de la cuenta de Spotify.
   5. Completar spotify_token con token temporal de Spotify.
+  6. Descargar ID de cliente de OAuth 2.0 en formato JSON.
